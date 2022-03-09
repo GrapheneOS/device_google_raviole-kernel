@@ -2,6 +2,8 @@ kernel/drivers/pinctrl/pinctrl-slg51000.ko
 kernel/drivers/regulator/slg51000-regulator.ko
 kernel/drivers/mfd/slg51000-core.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
+kernel/drivers/pps/clients/pps-gpio.ko
+kernel/drivers/pps/pps_core.ko
 kernel/net/core/pktgen.ko
 kernel/net/wireless/cfg80211.ko
 kernel/net/mac80211/mac80211.ko
